@@ -1,4 +1,7 @@
-# XeLaTex 中文镜像
+# XeLaTex 中文Docker镜像
+
+
+**注意：该镜像体积较大，接近4GB**
 
 ## Usage
 
